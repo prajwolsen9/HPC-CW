@@ -1,0 +1,13 @@
+#691112  PR1111 $6$KB$UZKWVUlZ..Dm5XdgMxH.km0P2VkseKNIIMWYJPh/.GQH4HOEkYbe0wuWl.5T5vpw1iRnDtTVGCftiWTuWKxUW1
+3380000 solutions explored
+3380000 solutions explored
+#92223   AJ2222 $6$KB$cQMYJhGmMARwEjfGRMlC18UvJGlmyIYbJfk0qhrZNFarqtEZ6yUhZoeCL33fiUDvRS21356vYXPObPQL5CpLk1
+3380000 solutions explored
+3380000 solutions explored
+#2483334 WO3333 $6$KB$Z3G5Aue7ykVd5oAB54M6cQgRFER3bENBR17A4.MS.eSNarmx7y0kVyeTIzajOaKqinTlMYUgxDMQfkPeceauB/
+3380000 solutions explored
+3380000 solutions explored
+#1344445 SE4444 $6$KB$Nk.z37JPc9q3HsWG35yElU7t8n52aujpl4V6pb3.U5DtHLOTHjiwgOxfRQyYZk7TZazcrEIxQaljOGghVSh.S.
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 32563295204907ns or 32563.295204907s

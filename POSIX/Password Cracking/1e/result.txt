@@ -1,0 +1,13 @@
+#2179    AV78 $6$KB$5B3KGhhav2/OsufUGxdicHWDBJM7ojVt0DvSVVwcpHL2OiiiBnq.b6hHZ/uYsi9PETZ6XDOW9/xOOrcbIXcfE/
+33800 solutions explored
+33800 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+33800 solutions explored
+33800 solutions explored
+#20167   HT66 $6$KB$f9ah72FpJLoNMH31E3Vvz66fzxDXtNprCFNhUlBMReyEesDqdAy50JiatNkOxYdavQl0OFNRgQG16/OauyswG0
+33800 solutions explored
+33800 solutions explored
+#10566   RB65 $6$KB$P4lZrgM3qOcCPTJVctZl3bzi90fNT7K7I9mErsPYt1MhU.51HeH4QJTxGTm5pQ6o6g4E7QBmr6rn.7VIuWFS90
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 317856789782ns or 317.856789782s
